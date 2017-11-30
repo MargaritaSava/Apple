@@ -1,0 +1,15 @@
+.nav{
+	background-color:#262626;
+	padding: 15px;
+	margin: -10px;
+}
+.nav li{
+	display:inline-block;
+	padding: 0 33px;
+	color:white;
+	 
+}
+a{
+	color:white;
+	text-decoration: none;
+}
