@@ -1,5 +1,5 @@
 .nav{
-	background-color:#262626;
+	background-color:#333;
 	padding: 15px;
 	margin: -10px;
 }
@@ -12,4 +12,35 @@
 a{
 	color:white;
 	text-decoration: none;
+	font-family: arial;
+	font-size: 14px;
+	font-style: normal;
+	text-decoration: none;
+
+}
+header h1{
+	font-family: arial;
+	font-size:55px;
+    text-align: center;
+    padding-top: 57px;
+    
+ 
+}
+header p{
+	font-family:arial;
+	font-size: 27px;
+	text-align: center;
+	margin-top:-35px;
+	letter-spacing: -1px;
+	
+	
+
+}
+header img{
+	display: block;
+	margin-top:60px;
+	margin-right: -50px;
+	margin-left: 32px;
+	
+	
 }
